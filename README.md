@@ -10,8 +10,8 @@ This minisymposium aims to provide researchers in astronomy and astrophysicists 
 
 ## Schedule
 - 14:00EDT Welcome
-- 14:04EDT [Using Julia to build the simulation pipeline of an astronomical instrument](abstracts/tomasi.md) (Maurizio Tomasi, Università degli Studi di Milano) (pre-recorded)
-- 14:20EDT [Jointly Modeling Telluric Features and Stellar Variability with StellarSpectraObservationFitting.jl](abstracts/gilbertson.md) (Christian Gilbertson, Penn State)
+- 14:03EDT [Using Julia to build the simulation pipeline of an astronomical instrument](abstracts/tomasi.md) (Maurizio Tomasi, Università degli Studi di Milano) (pre-recorded)
+- 14:20EDT [Jointly Modeling Telluric Features and Stellar Variability with StellarSpectraObservationFitting.jl](abstracts/gilbertson.md) (Christian Gilbertson, Penn State) (pre-recorded)
 - 14:35EDT [Characterizing the TRAPPIST-1 system with Julia](abstracts/agol.md) (Eric Agol, University of Washington)
 - 14:50EDT [Gradients of the Big Bang with Bolt.jl](abstracts/li.md) (Zack Li, Canadian Institute for Theoretical Astrophysics / University of Toronto)
 - 15:10EDT [High-dimensional inference from the Cosmic Microwave Background on GPU](abstracts/millea.md) (Marius Millea, University of California, Berkeley & Davis)
@@ -19,7 +19,7 @@ This minisymposium aims to provide researchers in astronomy and astrophysicists 
 - 15:40EDT [Back to Basics in Analyzing Radio Astronomy Data](abstracts/barrett.md) (Paul Barrett, The George Washington University)
 - 16:00EDT **[Panel Discussion](abstracts/panel.md)**  Submit/upvote questions/topics via [Pigeonhole](https://pigeonhole.at/JULIA13).
 
-Talk order and times may change.
+(Schedule times subject to change.)
 
 ## Panel discussion
 We plan a joint Q&A session after the talks. Participants will be encouraged ask questions that draw from multiple speakers' experiences.  
