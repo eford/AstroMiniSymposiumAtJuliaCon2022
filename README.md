@@ -16,12 +16,7 @@ This minisymposium aims to provide researchers in astronomy and astrophysicists 
 - 15:10EDT [High-dimensional inference from the Cosmic Microwave Background on GPU](abstracts/millea.md) (Marius Millea, University of California, Berkeley & Davis)
 - 15:25EDT [Adaptive Optics with Julia](abstracts/thompson.md) (William Thompson, University of Victoria)
 - 15:40EDT [Back to Basics in Analyzing Radio Astronomy Data](abstracts/barrett.md) (Paul Barrett, The George Washington University)
-- 16:00EDT **[Panel Discussion](abstracts/panel.md)**  Submit/upvote questions/topics via [Pigeonhole](https://pigeonhole.at/JULIA13).
-
-
-## Panel discussion
-We plan a joint Q&A session after the talks. Participants will be encouraged ask questions that draw from multiple speakers' experiences.  
-[Eric Ford](https://www.personal.psu.edu/ebf11) (Penn State) will moderate the discussion.
+- 16:00EDT **[Panel Discussion](abstracts/panel.md)** moderated by [Eric Ford](https://www.personal.psu.edu/ebf11) (Penn State).  Questions and some text responses avaliable via [Pigeonhole](https://pigeonhole.at/JULIA13).
 
 
 ## Rationale
